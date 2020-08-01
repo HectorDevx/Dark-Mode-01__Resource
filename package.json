@@ -1,0 +1,16 @@
+{
+  "name": "light-and-dark",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "light",
+    "dark",
+    "mode"
+  ],
+  "author": "Héctor Reyes <hectordevx@gmail.com>",
+  "license": "ISC"
+}

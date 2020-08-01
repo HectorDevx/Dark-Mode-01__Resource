@@ -1,0 +1,35 @@
+body {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background-color: black;
+}
+
+div {
+  border: white 1px solid;
+  background-color: black;
+  padding: 40px;
+  width: 40%;
+  height: 40%;
+}
+
+h1,
+p {
+  color: white;
+}
+
+btn {
+  border: none;
+  padding: 16px;
+  margin: 8px;
+}
+
+btn-light {
+  background-color: white;
+  color: black;
+}
+
+btn-dark {
+  background-color: black;
+  color: white;
+}
