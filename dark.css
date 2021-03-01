@@ -1,35 +1,25 @@
 body {
-  display: flex;
-  justify-content: center;
-  align-items: center;
   background-color: black;
 }
 
-div {
+.container {
   border: white 1px solid;
   background-color: black;
-  padding: 40px;
-  width: 40%;
-  height: 40%;
 }
 
 h1,
-p {
+h2 {
   color: white;
 }
 
-btn {
-  border: none;
-  padding: 16px;
-  margin: 8px;
-}
-
-btn-light {
+.btn-light {
   background-color: white;
   color: black;
+  border: black 1px solid;
 }
 
-btn-dark {
+.btn-dark {
   background-color: black;
   color: white;
+  border: white 1px solid;
 }
